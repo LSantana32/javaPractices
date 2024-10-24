@@ -1,0 +1,1 @@
+SELECT * FROM users WHERE age < 30  -- Trae el/los valores [Inserte valor/es o *] de la tabla donde la condición sea verdadera

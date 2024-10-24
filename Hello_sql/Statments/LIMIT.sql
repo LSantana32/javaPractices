@@ -1,0 +1,1 @@
+SELECT * FROM users LIMIT 2 -- Trae el/los primeros N valores de la tabla
